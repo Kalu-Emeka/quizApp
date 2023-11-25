@@ -27,7 +27,7 @@ h2 {
     text-align: center;
     margin: 0;
     font-size: 23px;
-    font-family: cursive;
+    font-family: 'Courier New', Courier, monospace;
 }
 #question {
     margin-bottom: 30px;
